@@ -1,6 +1,5 @@
 from flask import Flask, render_template, Response
 from app import yolo_inferencing
-# from temp import face_inferencing
 import cv2
 
 app = Flask(__name__)
@@ -11,7 +10,6 @@ def generate_frames():
     while True:
         success, frame = camera.read()
         frame = yolo_inferencing(frame)
-        # frame = face_inferencing(frame)
         if not success:
             break
         else:
