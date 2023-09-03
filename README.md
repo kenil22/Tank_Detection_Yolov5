@@ -27,7 +27,7 @@ For feature extraction, I have used PyTorch framework and ResNet18 architecture 
 <img width="400" alt="Sample image of output" src="Result\SHAHPAR_UAV_OUTPUT.PNG" />
 
 <img width="400" alt="Sample image of output" src="Result\T72_TANK_OUTPUT.PNG" />
-![Screenshot]("Result\T72_TANK_OUTPUT.PNG")
+![Screenshot](Result\T72_TANK_OUTPUT.PNG)
 
 ## To run this code :-
 
