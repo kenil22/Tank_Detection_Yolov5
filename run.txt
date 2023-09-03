@@ -1,0 +1,7 @@
+Run the below written commands sequentially :-
+
+1.) conda create -n env python==3.10.10
+
+2.) conda activate env
+
+3.) python fina.py
