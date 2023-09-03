@@ -19,14 +19,15 @@ For feature extraction, I have used PyTorch framework and ResNet18 architecture 
 
 # Attaching some outputs
 
-<img width="400" alt="Sample image of output" src="Result\Leopard2_Tank_Output.PNG" />  
+![Leopard2_Tank_Output](https://github.com/kenil22/Tank_Detection_Yolov5/assets/73990461/5d53723d-2229-4807-8360-76f92e4528ac)  
 
 ![AL_KHALID_OUTPUT](https://github.com/kenil22/Tank_Detection_Yolov5/assets/73990461/08eaa47d-ce73-4322-885f-222821d1906b)
 
-<img width="400" alt="Sample image of output" src="Result\SHAHPAR_UAV_OUTPUT.PNG" />
+![SHAHPAR_UAV_OUTPUT](https://github.com/kenil22/Tank_Detection_Yolov5/assets/73990461/579b4d29-df53-499e-a38f-28ad89d43de8)
 
-<img width="400" alt="Sample image of output" src="Result\T72_TANK_OUTPUT.PNG" />
-![Screenshot](/Result/T72_TANK_OUTPUT.PNG)
+![T72_TANK_OUTPUT](https://github.com/kenil22/Tank_Detection_Yolov5/assets/73990461/7b2f75b5-3283-427f-ab59-248f0b648443)
+<img src="https://github.com/kenil22/Tank_Detection_Yolov5/assets/73990461/7b2f75b5-3283-427f-ab59-248f0b648443" width="200" alt="T72_TANK_OUTPUT">
+
 
 ## To run this code :-
 
