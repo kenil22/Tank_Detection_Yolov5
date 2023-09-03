@@ -17,8 +17,7 @@ For feature extraction, I have used PyTorch framework and ResNet18 architecture 
 1. Refer to **fina.py** which contains all flask routes. Look out for **generate_frames()** function which takes live feed(frame) as input and outputs frame with box in the frame where tank is located.
 2. See file **using_pytorch_fea_extr_tank_only.json** in which I have stored extracted features of all tank images.
 
-# Attaching some images which prooves the working of this application
-
+# Attaching some outputs
 
 <img width="400" alt="Sample image of output" src="Result\Leopard2_Tank_Output.PNG" />  
 
@@ -27,7 +26,7 @@ For feature extraction, I have used PyTorch framework and ResNet18 architecture 
 <img width="400" alt="Sample image of output" src="Result\SHAHPAR_UAV_OUTPUT.PNG" />
 
 <img width="400" alt="Sample image of output" src="Result\T72_TANK_OUTPUT.PNG" />
-![Screenshot](Result\T72_TANK_OUTPUT.PNG)
+![Screenshot](/Result/T72_TANK_OUTPUT.PNG)
 
 ## To run this code :-
 
