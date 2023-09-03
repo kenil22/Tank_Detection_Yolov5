@@ -21,7 +21,7 @@ For feature extraction, I have used PyTorch framework and ResNet18 architecture 
 
 <img width="400" alt="Sample image of output" src="Result\Leopard2_Tank_Output.PNG" />  
 
-<img width="400" alt="Sample image of output" src="Result\AL_KHALID_OUTPUT.PNG" />
+![AL_KHALID_OUTPUT](https://github.com/kenil22/Tank_Detection_Yolov5/assets/73990461/08eaa47d-ce73-4322-885f-222821d1906b)
 
 <img width="400" alt="Sample image of output" src="Result\SHAHPAR_UAV_OUTPUT.PNG" />
 
